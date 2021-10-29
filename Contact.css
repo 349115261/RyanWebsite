@@ -46,12 +46,17 @@
   margin: 20px 570px 0 0;
 }
 
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-form-1 {
   height: 307px;
   margin: -208px 0 -79px 394px;
 }
 
-.u-section-1 .u-btn-3 {
+.u-section-1 .u-btn-4 {
   width: 100%;
   background-image: none;
   border-style: none;
